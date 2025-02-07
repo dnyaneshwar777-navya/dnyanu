@@ -13,7 +13,7 @@ public class sample {
 	public static void main(String[] args) {
 		sample sam=new sample();
 		sam.meth1();
-		sam.meth1();
+		sam.meth2();
 		
 
 	}
