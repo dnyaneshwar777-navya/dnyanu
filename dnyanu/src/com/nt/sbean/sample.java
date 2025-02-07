@@ -10,6 +10,11 @@ public class sample {
 	{
 		System.out.println("Hi Navya");
 	}
+	void meth3()
+	{
+		System.out.println("Hi Navya1");
+	}
+	
 	public static void main(String[] args) {
 		sample sam=new sample();
 		sam.meth1();
